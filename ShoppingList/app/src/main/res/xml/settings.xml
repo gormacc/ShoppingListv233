@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:title="@string/sort_setting_title"
+        android:id="@+id/isSortedPreference"
+        android:summary="@string/sort_setting_summary"
+        android:key="@string/sort_setting_key"
+        android:defaultValue="false"/>
+
+</PreferenceScreen>

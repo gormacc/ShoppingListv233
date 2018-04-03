@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="sample_text">Sample text</string>
+    <string name="add_new_text">Add new product</string>
+    <string name="add_new_desc">Write product name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_element">Edit product name</string>
+    <string name="edit_elem_desc">Write product name</string>
+    <string name="sort_setting_key">sortAlphabetic</string>
+    <string name="sort_setting_summary">Click to sort</string>
+    <string name="sort_setting_title">Sort alphabetically</string>
+    <string name="settings_fragment">settings_fragment</string>
+    <string name="settings_title">Settings</string>
+</resources>
